@@ -1,0 +1,36 @@
+
+INFORME DE METADATOS Y PROPIEDADES
+==================================
+
+Nombre del archivo: freidora.jpg
+Ruta del archivo: C:\IA_Gpo3H\VA_0085\mkdir p1-act1-0085\img-original-0085\freidora.jpg
+Formato por extension: .JPG
+Tamano en bytes: 21982
+Tamano en KB: 21.47
+Tamano en MB: 0.0210
+
+DIMENSIONES
+-----------
+Ancho: 447 pixeles
+Alto: 447 pixeles
+Resolucion: 447 x 447
+Total de pixeles: 199,809
+
+CANALES Y DATOS
+---------------
+Numero de canales: 3
+Orden de canales: BGR
+Tipo de datos: uint8
+Valor minimo de pixel: 0
+Valor maximo de pixel: 255
+Promedio general de los valores: 140.79
+
+PROMEDIO POR CANAL
+------------------
+Azul (B): 137.36
+Verde (G): 140.95
+Rojo (R): 144.05
+
+Nota: el formato se identifica por la extension
+del archivo. La resolucion indica las dimensiones
+en pixeles y no los puntos por pulgada (DPI).
